@@ -1,7 +1,7 @@
-# React + TypeScript + Vite
+# Proyecto creado con React + TypeScript + Vite
 
 
-##Modo de instalacion
+## Modo de instalacion
 
 *Descargar el repo
 *en la consola escribir "cd calculadora_propinas"
